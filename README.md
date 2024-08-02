@@ -2,8 +2,8 @@ Hi there 👋
 
 I am a frontend Developer
 
-- 🔭 I’m currently working on HTML, CSS, Bootstrap, JavaScript, and Reactjs
-- 🌱 I’m currently learning JavaScript Concepts and React js
+- 🔭 I’m currently working on HTML, CSS, Bootstrap, JavaScript, Reactjs and Redux
+- 🌱 I’m currently learning Next js and Redux.
 - 💬 Looking for an opportunity as Frontend Developer
 - 📫 How to reach me: mail me at awasthivani95@gmail.com
 
